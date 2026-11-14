@@ -49,6 +49,12 @@
       "skillPath": "SKILL.md",
       "computedHash": "4b8b498999dd08741a8d6623de0fb5afef4a0c45dc84ac2ffe461f4741f2d4e5"
     },
+    "shadcn": {
+      "source": "shadcn-ui/ui",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "computedHash": "388962d16c7a4f13aaeee0d8f128e50a87df8553d42ef7988c39c0e1c74a40e8"
+    },
     "slides": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
