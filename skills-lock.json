@@ -37,6 +37,12 @@
       "skillPath": "skills/frontend-design/SKILL.md",
       "computedHash": "83485963700bcf11d5bf78118facb301676b69d918fee2e45a95e7f1a2840f6c"
     },
+    "secure-webapp": {
+      "source": "hov172/secure-webapp-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "b89d9ac67ef5a68852b535b80a8164b761626e9f323aefcf19fd3b17c5537ad2"
+    },
     "seo-audit": {
       "source": "seo-skills/seo-audit-skill",
       "sourceType": "github",
